@@ -1,4 +1,12 @@
 eeeeeeeee
 
 
+<<<<<<< HEAD
 aaaaaaaaaaaa
+=======
+aaaaaaaaa
+
+
+
+jira que jira jira que jira
+>>>>>>> refs/remotes/origin/master
